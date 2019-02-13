@@ -1,0 +1,509 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    font:14px/1.3 Arial,sans-serif;
+    background-color:white;
+    background-image: url("../images/fondo2.gif");
+
+}
+
+
+
+
+/*---para volver a poner la barra blanca entera solo hay qye modificar eel width y darle el valor 1046px y quitar las 
+propiedades margin-left:auto /margin-right:auto y display:block;--*/
+header {
+    background-color:white;
+    box-shadow: 0 -1px 2px #111111;
+    color:#fff;
+    display:block;
+    height:70px;
+    width: 924px;
+    position:relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    z-index:100;
+}
+header h2{
+    color:black;
+    font-size:22px;
+    font-weight:normal;
+    left:50%;
+    margin-left:-360px;
+    padding:22px 0;
+    position:absolute;
+    width:530px;
+}
+
+header img{
+    
+    font-size:22px;
+    font-weight:normal;
+    left:50%;
+    margin-left:-450px;
+    position:absolute;
+   
+}
+
+header img.patrocinador{
+    
+    font-size:22px;
+    font-weight:normal;
+    left:50%;
+    margin-left:-240px;
+    position:absolute;
+   
+}
+
+
+
+
+
+
+header a.stuts,a.stuts:visited{
+    border:none;
+    text-decoration:none;
+    color:#fcfcfc;
+    font-size:14px;
+    left:50%;
+    line-height:31px;
+    margin:23px 0 0 110px;
+    position:absolute;
+    top:0;
+}
+header .stuts span {
+    font-size:22px;
+    font-weight:bold;
+    margin-left:5px;
+}
+
+/*-----------------------slide de imagenes moviendose---------------------------*/
+
+
+.slide{
+    z-index: 1;
+    width: 600px;
+    height: 400px;
+    margin: 0% auto;
+    border-radius: .5em;
+    box-shadow: 10px 10px 5px #888;
+    position: relative;
+}
+ 
+.slide img{
+    z-index: 1;
+    width: 600px;
+    height: 400px;
+    position: absolute;
+}
+ 
+.slide .img2, .slide .img3 {
+    z-index: 1;
+    display: none;
+}
+
+/*------------------divs---------------------------*/
+
+
+
+
+div.pie {
+width: 925px;
+height: 19px;
+
+}
+
+.container {
+    height: 800px;
+    width: 925px;
+    background-color:#424242;
+    margin: 0 auto;
+}
+
+#cabecera{
+background-color:#424242;
+}
+    
+#menu{
+float: left;
+width: 12%;
+background-color:#424242;
+height: 800px;
+}
+
+
+
+#contenido{ 
+float: left;
+width: 814px;
+background-color:#424242;
+height: 800px;
+}
+
+#contenidoinicio{ 
+float: left;
+width: 70%;
+background-color:#424242;
+height: 800px;
+
+
+}
+
+#derecha{
+float: left;
+width: 166px;
+background-color:#424242;
+height: 800px;
+}
+
+#pie{
+clear: both;
+background-color:#424242;
+    
+
+}
+
+
+/*-------------------divs en la página de fotos----------------------*/
+
+div.pie {
+width: 925px;
+height: 19px;
+
+}
+
+.fotoscontainer {
+    min-height: 800px;
+    width: 925px;
+    background-color:#424242;
+    margin: 0 auto;
+}
+
+#fotoscabecera{
+background-color:#424242;
+}
+    
+#fotosmenu{
+float: left;
+width: 12%;
+background-color:#424242;
+min-height: 800px;
+}
+
+
+
+#fotoscontenido{ 
+float: left;
+width: 814px;
+background-color:#424242;
+min-height: 800px;
+}
+
+#fotoscontenidoinicio{ 
+float: left;
+width: 70%;
+background-color:#424242;
+min-height: 800px;
+
+
+}
+
+#fotosderecha{
+float: left;
+width: 166px;
+background-color:#424242;
+min-height: 800px;
+}
+
+#fotospie{
+clear: both;
+background-color:#424242;
+    
+
+}
+
+
+
+/*-------------------noticias-------------------------*/
+
+div.pie {
+width: 925px;
+height: 19px;
+
+}
+
+.noticiascontainer {
+    min-height: 800px;
+    width: 925px;
+    background-color:#424242;
+    margin: 0 auto;
+}
+
+#noticiascabecera{
+background-color:#424242;
+}
+    
+#noticiasmenu{
+float: left;
+width: 12%;
+background-color:#424242;
+min-height: 800px;
+}
+
+
+
+#noticiascontenido{ 
+float: left;
+width: 814px;
+background-color:#424242;
+min-height: 800px;
+}
+
+#noticiascontenidoinicio{ 
+float: left;
+width: 70%;
+background-color:#424242;
+min-height: 800px;
+
+
+}
+
+#noticiasderecha{
+float: left;
+width: 166px;
+background-color:#424242;
+min-height: 800px;
+}
+
+
+
+
+/*------------------párrafos--------*/
+
+
+p.pcenter{
+
+background-color: #A4A4A4;
+text-align:center;
+margin:0.5em;
+color:white;
+}
+
+
+
+
+p.pie{
+
+background-color: #A4A4A4;
+text-align:center;
+color:white;
+margin: 0em;
+}
+
+
+p.pinicio{
+
+margin:0.5em;
+color:white;
+padding-top: 25px;  
+
+}
+
+
+p{
+
+margin:0.5em;
+color:white;
+
+}
+
+p.noticias{
+float:left;
+
+}
+
+h3{
+
+    margin:1.5em;
+    color: white;
+
+
+}
+
+
+/*----imágenes-------------*/
+
+img.imgcenter {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 5px;
+}
+
+
+img.imgcenter1 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 5px;
+
+}
+
+img.imgcenter2 {
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 5px;
+
+}
+
+
+img.img3 {
+display: block;
+float: left;
+margin-left: 10px;
+padding-top: 5px;
+
+}
+
+img.pagfotos {
+display: block;
+float: left;
+margin-right: 10px;
+margin-top: 5px;
+border-color:black;
+border:1;
+}
+
+img.halloffame {
+display: block;
+float: left;
+margin-right: 15px;
+margin-left: 15px;
+margin-top: 50px;
+border-color:black;
+}
+
+
+/*-----------------figure-------------------------*/
+
+figure{
+    
+    float:left;
+    margin-bottom:20px;
+    position:relative;
+}
+figure img{
+    float:left;
+    
+    
+}
+figure figcaption{
+    position:absolute;
+    bottom:0px;
+    margin-bottom:-5px;
+    width:170px;
+}
+
+figure figcaption a{
+    left:0;
+    position:absolute;
+    color:white;
+    
+}
+figure figcaption a:hover{
+    text-decoration:none;
+    color:red;
+}
+figure figcaption a span{
+    display:none;
+    position:absolute;
+}
+figure figcaption a:hover span{
+    display:inline;
+}
+
+
+
+
+/*----videos-------------*/
+
+
+iframe.videoinicio{
+
+border:"0";
+}
+
+iframe{
+float:right;
+padding-top: 20px; 
+
+
+}
+
+iframe.videosre1{
+float:right;
+padding-right: 70px; 
+
+
+}
+
+iframe.videosre2{
+float:right;
+padding-right: 70px; 
+
+
+}
+
+
+iframe.videosnoticias{
+float:left;
+padding-right: 70px; 
+
+
+}
+
+/*----enlaces-------------*/
+
+
+a{
+color:red;
+
+
+}
+a.linkazul{
+color:blue;
+}
+
+a.noticias{
+float:left;
+    
+}
+
+
+
+
+
+
+/***-----------listas------------*/
+
+ul.botonjugadores{
+display: block;
+float:right;
+right:100px;
+
+
+}
+
+
+/*------------------------BOTONES---------------*/
+
+
+
+
+
+

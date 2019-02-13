@@ -1,0 +1,24 @@
+
+img.imgcenter{
+
+display: block;
+ margin-left: auto;
+ margin-right: auto;
+ }
+
+
+p.pcenter{
+
+text-align:center
+
+}
+
+div.index {
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+padding-top: 5px;
+
+
+}

@@ -1,0 +1,80 @@
+* {
+
+
+    padding: 0px;
+    margin: 0px;
+            }
+
+    #nav2 {
+        width: 100px;
+        font-family:arial;
+
+
+    
+            }
+        ul, ol {
+            list-style: none;
+
+
+        }
+
+        .nav2 li a{
+            background-color: #000;
+            color: #fff;
+            width: 120px;
+            text-decoration: none;
+            padding: 10px 15px;
+            display: block;
+
+
+        }
+
+        .nav2 >li a:hover{
+            background-color: #202020;
+
+
+        }
+
+        
+
+        .nav2 >li {
+            float: left;
+
+
+        }
+
+        .nav2 li ul{
+
+            display: none;
+            position: absolute;
+            min-width: 140px;
+
+        }
+
+        .nav2 li:hover >ul{
+            display: block;
+
+
+        }
+
+        .nav2 li ul li {
+            position: relative;
+            
+
+
+        }
+
+        .nav2 li ul li ul{
+            right: -140px;
+            top:0px;
+
+
+        }
+
+         .nav2 li ul li a:hover{
+            background-color: #202020;
+            color:red;
+
+
+
+        }

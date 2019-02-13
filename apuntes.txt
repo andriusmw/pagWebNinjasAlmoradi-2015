@@ -1,0 +1,93 @@
+-done-lacados angel hacer un botón
+-done-"entidades relaccionadas"/relaccionado" -> hacer un desplegable
+-done-palmarés/vitrina->trofeos/medallas
+
+---------------JUGADORES NINJAS ALMORADÍ---(EL A)
+
+
+
+-hecho /Alejandro Girona Grimao,25,Antikette,mandoble,25-09-1996,Shambala
+
+-hecho /María Sampere Medina,9,Q-tip,escolta(cambiar a medio),01-12-1996,kamikaces, Ninjas Almoradí
+
+-hecho /Desiderio Ortuño García,22,Anti-kette,mandoble,25-06-1995,Ninjas Almoradí, Valkyr team.
+
+-hecho /Pedro Antonio Blanco Hernández,15,kette,kette,stab,13-04-1995, ninguno
+
+-hecho /Fede Sicario Itzvovich,24,medio,Stab,Mandoble,28-04-1993,Midnight Fighters B
+
+-hecho /Ren Jongmin(nombre) Jo Jung (apellido),13,Medio,Q-tip,duales,29-02-1996,Shambala
+
+-hecho /Patricia Santos Sánchez,53,Quicker,-,-,22-10-1998,Focamonjes y Valkyr Team B
+
+-hecho  /José Aparicio García,18,Quicker,--,--,01-05-1992.ninguno 
+
+-hecho  /Toni, Díaz Beltrán,21,Antikette,Q-tip,Escudo y espada corta,22-10-1995,Dragon's Storm 
+
+-* / Aaron Vera Crespo ,28, kette, kette ,stab ,19-03-1998 , Team Hunter
+
+
+
+-------------¿Y ESTE QUIÉN COÑO ES?----------
+
+
+* / Luis, Girona Perez,20, ,Mandoble,-,28-03-1998,- * FALTA POSICIÓN * 
+* / Iñigo,Maín Muries,-,Escolta,Mandoble,Q-tip,06-07-2001,-
+- 
+-
+----------------OTROS JUGADORES------
+
+-hecho /Fabio Yánez Romero,--,Escolta,Mandoble,20-01-1996,--
+
+-hecho /Andrés García Larrosa ,10,medio(cambiar a escolta),mandoble,escudo y espada corta,27-11-1994,ninguno
+
+-hecho /Germán Ferrer Mañogil, --,medio,Mandoble,--,03/03/1995,--
+
+-hecho /Jesús Bailén Gómez,--,escolta,Q-tip,--,11/06/1994,--
+
+-hecho /Cristian Hernández Navarro,--,Medio,Mandoble,Escudo y Espada,22/11/1995,--
+
+-Jose Antonio Aracil Espí,--,Medio,Mandoble,--,13/11/1996,--
+
+-hecho/ Álvaro Miralles Guerrero,3,medio,escudo y espada corta,q-tip,2/5/1994,Midnight fighters,Desertores
+
+--hecho/ Salvador Caballero Rodríguez,19 .kette,kette, 
+
+-hecho /Alex Asensi Barberá,4,medio,mandoble,stab,2-5-1989, leviatanes
+
+
+
+-hecho /Daniel Bernabé García ,14 ,Qwicker,24-04-1996,Red Dragons, Valkyr team, Ninjas Almoradí
+
+-hecho /Alejandro Villena Charcos,16,kette,kette,09-06-1991,Ninjas Almoradí
+
+-hecho/Noé Andrés García, 23, Escolta, Mandoble & Qtip, 11-2-1994, Ninjas Almoradí
+
+-hecho /Miguel Ángel Ruíz García, 1, Antikette, Escudo y espada corta, 14-9-1993, Ninjas Almoradí
+
+-hecho Mario Navarro Gomis,12,medio,Stab,4-09-1995,Ninjas Almoradí
+
+-hecho /Víctor Sala Rodes,6,Kette,Kette,10/12/1993, Ninjas Almoradí,Valkyr team.
+
+-hecho /Joan Didac Pineda Sánchez,5,escolta,mandoble,kette,2/5/1997/Shadow Wolves y Desertores
+
+-----------------------YA NO -------------------------
+
+
+-José Antonio, Rabadán García, 11, Kette, kette,12/03/1995,Verracos e ignis.
+
+-Juan Francisco Zamora Copete,--,Medio,Q-tip,18-01-1993,--
+
+-hecho /Javier Sampere Manrique,7,Quicker,ninguna,28-11-1993,ninguno
+
+
+--------------------------hall of fame-----------------
+
+gabi-->4
+dimas-->9
+
+
+------------------------------------------------------
+dorsales ocupados: 23,1,16,14,25,13,4,19,3,
+                   15,9,12,22,6,24,5,11,20
+		   10,7,21,53,18,28
